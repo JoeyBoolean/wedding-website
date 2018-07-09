@@ -36,6 +36,14 @@
     font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue',"Pangolin", sans-serif;
   }
 
+  .registry {
+    border: 3px outset;
+    padding: 10px;
+    background-color: burlywood;
+    width: 90%;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue',"Pangolin", sans-serif;
+  }
+
   .couple-text {
     border-width:10px;  
     border-style:groove;
